@@ -195,8 +195,3 @@ function mousePressed() {
   // Set the flag to true so that the small image is drawn
   isMousePressed = true;
 }
-
-function mouseReleased() {
-  // Set the flag to false when the mouse is released
-  isMousePressed = true;
-}
